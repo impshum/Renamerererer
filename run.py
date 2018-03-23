@@ -13,7 +13,6 @@ ext = '.PAC'
 with open(new_filenames) as f:
     fnames = f.readlines()
 
-
 def rename(re1, re2):
     file_list = os.listdir(re1)
     files = []
