@@ -1,6 +1,6 @@
 # Renamerererer
 
-Reads files from a directory into a list, reads filenames from a txt file into a list then shuffles both TWICE!
+Reads files from a directory into a list, reads filenames from a txt file into a list then shuffles both and renames all files TWICE!
 
 ### Dependencies
 
